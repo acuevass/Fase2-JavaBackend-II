@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1226a580-6d29-4b02-8eb7-2968433dcb94" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PI4ZjonLHQ3urpw6etwR0Mdc2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/acuev/OneDrive/Documentos/Cursos/BEDU Desarrollo Web JAVA/Fase 2-II/Entrega"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.bedu.postwork.javase2project.controller" />
+      <recent name="org.bedu.postwork.javase2project.repository" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.bedu.postwork.javase2project.tools" />
+      <recent name="org.bedu.postwork.javase2project.reactive" />
+      <recent name="org.bedu.postwork.javase2project.persistence" />
+      <recent name="org.bedu.postwork.javase2project" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.bedu.postwork.javase2project.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReporteCalificacionesTest">
+    <configuration name="InscripcionAlumnos_Ctrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bedu.postwork.javase2project.controller.InscripcionAlumnos_Ctrl" />
+      <module name="javase2-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bedu.postwork.javase2project.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Postwork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bedu.postwork.javase2project.repository.Postwork2" />
+      <module name="javase2-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bedu.postwork.javase2project.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcularPromedioCursoRxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase2-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bedu.postwork.javase2project.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bedu.postwork.javase2project.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.bedu.postwork.javase2project.controller.CalcularPromedioCursoRxTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase2-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bedu.postwork.javase2project.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bedu.postwork.javase2project.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.bedu.postwork.javase2project.controller.MergeSortAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReporteCalificacionesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javase2-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bedu.postwork.javase2project.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bedu.postwork.javase2project.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.bedu.postwork.javase2project.controller.ReporteCalificacionesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Proyecto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Proyecto" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReporteCalificacionesTest" />
+        <item itemvalue="JUnit.MergeSortAlgorithmTest" />
+        <item itemvalue="JUnit.CalcularPromedioCursoRxTest" />
+        <item itemvalue="Application.InscripcionAlumnos_Ctrl" />
+        <item itemvalue="Application.Postwork2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1226a580-6d29-4b02-8eb7-2968433dcb94" name="Changes" comment="" />
+      <created>1683131322444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683131322444</updated>
+    </task>
+    <servers />
+  </component>
+</project>
